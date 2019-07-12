@@ -13,3 +13,4 @@
 # 結果イメージ
 結果のgifイメージは、
 `datas_for_readme/life-game.gif` に置いてあります。
+![demo](./datas_for_readme/life-game.gif)
