@@ -9,3 +9,7 @@
 
 # 構成
 ![alt text](./datas_for_readme/tree.png)
+
+# 結果イメージ
+結果のgifイメージは、
+`datas_for_readme/life-game.gif` に置いてあります。
