@@ -10,10 +10,10 @@ https://github.com/hodaka0714/2d_cellular_automata.git"""
 
 # 構成
 .
-├── Pipfile
-├── Pipfile.lock
-├── README.md
-├── life-game.mov
-└── src
-    ├── field.py
-    └── main.py
+├── Pipfile  
+├── Pipfile.lock  
+├── README.md  
+├── life-game.gif  
+└── src  
+    ├── field.py  
+    └── main.py  
